@@ -1,0 +1,86 @@
+.sub {
+    height: 400px;
+    background-color: rgb(28, 34, 66);
+    text-align: left;
+}
+
+.ctext {
+    color: rgb(222, 222, 222);
+}
+
+.alink {
+    text-decoration: none;
+}
+
+.sub__smallBox {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 250px;
+}
+
+.sub__bigBox{
+    position: relative;
+    top: -40px;
+    left: 600px;
+    width: 400px;
+}
+
+.sub__contentTitle {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 700;
+    font-size: larger;
+    padding-bottom: 10px;
+}
+
+.sub__contentText {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+.sub__statContainer {
+    display: flex;
+}
+
+.sub__statBox {
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.sub__contentNumber {
+    font-family: 'Assistant', sans-serif;
+    font-size: 40px;
+    color: rgb(255, 136, 0);
+}
+
+.sub__contentStat {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-size: x-small;
+    width: 80px;
+    padding-left: 5px;
+}
+
+.sub__contentLinks {
+    display: flex;
+    position: relative;
+    top: 0px;
+    left: 250px;
+}
+
+.sub__linkBox {
+    font-family: 'Assistant', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    box-sizing: border-box;
+    padding: 65px 35px 35px 35px;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: rgb(222, 222, 222);
+    color: rgb(28, 34, 66);
+}
+
+.sub__linkBox:hover {
+    background-color: rgb(255, 136, 0);
+}

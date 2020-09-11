@@ -1,0 +1,30 @@
+.subwork {
+    height: 800px;
+    text-align: left;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../images/abroad.jpg");
+    color: rgb(222, 222, 222);
+
+}
+
+.subwork__content {
+    position: relative;
+    top: 30px;
+    left: 670px;
+    height: 200px;
+    width: 450px;
+    background-color: rgba(28, 34, 66, 60%);
+    padding: 25px;
+}
+
+.subwork__title {
+    font-family: 'Assistant', sans-serif;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.subwork__text {
+    font-family: 'Roboto', sans-serif;
+}
