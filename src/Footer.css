@@ -1,27 +1,20 @@
 .footer {
-    width: 1200px;
     margin: 0;
     padding: 0;
-    margin-left: auto;
-    margin-right: auto;
+    background-color: rgb(28, 34, 66);
+
     color: rgb(222, 222, 222);
 }
 
 .footer__top {
     display: flex;
     height: 75px;
-    background-color: rgba(28, 34, 66, 70%);
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
     box-sizing: border-box;
-    padding: 25px;
     align-items: center;
     justify-content: center;
-}
-
-.footer__bottom {
-    height: 125px;
-    background-color: rgb(28, 34, 66);
-    box-sizing: border-box;
-    padding: 25px;
 }
 
 .footer__links {
@@ -30,4 +23,56 @@
     font-weight: bold;
     margin-right: 15px;
     margin-left: 15px;
+}
+
+.footer__bottom {
+    height: 75px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.footer__subscribe {
+    margin-left: 350px;
+}
+
+.footer__subscribeText {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.footer__textbox {
+    background-color: rgb(47, 54, 102);
+    border: none;
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(222, 222, 222);
+}
+
+.footer__submit {
+    font-family: 'Assistant', sans-serif;
+    font-size: 14px;
+    background-color: rgb(47, 54, 102);
+    color: rgb(222, 222, 222);
+    border: none;
+    height: 30px;
+    width: 70px;
+}
+
+.footer__submit:hover {
+    background-color: rgb(222, 222, 222);
+    color: rgb(47, 54, 102);
+}
+
+.footer__socials {
+    margin-right: 0;
+    margin-left: auto;
 }

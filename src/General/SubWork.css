@@ -5,11 +5,18 @@
     background-repeat: no-repeat;
     background-position: center;
     background-image: url("../images/abroad.jpg");
+    min-width: 1200px;
     color: rgb(222, 222, 222);
 
 }
 
 .subwork__content {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subwork__contentBox {
     position: relative;
     top: 30px;
     left: 670px;

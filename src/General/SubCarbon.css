@@ -3,15 +3,21 @@
     background-color: rgb(222, 222, 222);
 }
 
+.subcarbon__content {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .subcarbon__image {
-    width: 800px;
+    max-width: 800px;
     height: auto;
     position: relative;
     top: 125px;
     left: -200px;
 }
 
-.subcarbon__content {
+.subcarbon__contentBox {
     position: relative;
     top: -350px;
     left: 850px;

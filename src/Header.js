@@ -10,7 +10,6 @@ function Header () {
                     WFH
                 </a>
             </div>
-            <input type="text" className="header__search" placeholder="Search.." />
             <div className="header__setLink">
                 <a href="#1" className="header__link">Flexible Schedule</a>
                 <a href="#2" className="header__link">Work Abroad</a>
