@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wfh-website/static/css/main.d728afdc.chunk.css",
+    "main.js": "/wfh-website/static/js/main.bb3c67a1.chunk.js",
+    "main.js.map": "/wfh-website/static/js/main.bb3c67a1.chunk.js.map",
+    "runtime-main.js": "/wfh-website/static/js/runtime-main.671d8236.js",
+    "runtime-main.js.map": "/wfh-website/static/js/runtime-main.671d8236.js.map",
+    "static/js/2.064887e9.chunk.js": "/wfh-website/static/js/2.064887e9.chunk.js",
+    "static/js/2.064887e9.chunk.js.map": "/wfh-website/static/js/2.064887e9.chunk.js.map",
+    "index.html": "/wfh-website/index.html",
+    "precache-manifest.a703f307f48c12efa2c8246543b4e1b8.js": "/wfh-website/precache-manifest.a703f307f48c12efa2c8246543b4e1b8.js",
+    "service-worker.js": "/wfh-website/service-worker.js",
+    "static/css/main.d728afdc.chunk.css.map": "/wfh-website/static/css/main.d728afdc.chunk.css.map",
+    "static/js/2.064887e9.chunk.js.LICENSE.txt": "/wfh-website/static/js/2.064887e9.chunk.js.LICENSE.txt",
+    "static/media/SubWork.css": "/wfh-website/static/media/abroad.96fcdb22.jpg",
+    "static/media/carbon.jpg": "/wfh-website/static/media/carbon.69ebf9ee.jpg",
+    "static/media/commute.jpg": "/wfh-website/static/media/commute.7ed5327e.jpg",
+    "static/media/cover.jpg": "/wfh-website/static/media/cover.b0f1a3c8.jpg",
+    "static/media/dogwalk.png": "/wfh-website/static/media/dogwalk.24ea7613.png",
+    "static/media/workhome.jpg": "/wfh-website/static/media/workhome.817ab25b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.671d8236.js",
+    "static/js/2.064887e9.chunk.js",
+    "static/css/main.d728afdc.chunk.css",
+    "static/js/main.bb3c67a1.chunk.js"
+  ]
+}
