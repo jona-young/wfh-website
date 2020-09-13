@@ -6,7 +6,7 @@
 .header {
     display: flex;
     font-family: 'Assistant', sans-serif;
-    max-width: 1200px;
+    width: 1200px;
     background-color: rgb(222, 222, 222);
     padding-top: 10px;
     margin-left: auto;
@@ -16,11 +16,13 @@
 .header__title {
     padding-left: 50px;
     display: flex;
-    color: rgb(28, 34, 66);
 }
 .header__titleLogo {
     padding-top: 7px;
     margin-left: 5px;
+    text-decoration: none;
+    color: rgb(28, 34, 66);
+
 }
 
 .header__titleLogo:hover {
@@ -54,7 +56,8 @@
 .header__link {
     margin-left: 20px;
     margin-right: 20px;
-    color: rgb(28, 34, 66)
+    color: rgb(28, 34, 66);
+    text-decoration: none;
 }
 
 .header__link:hover {

@@ -1,0 +1,33 @@
+.footer {
+    width: 1200px;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(222, 222, 222);
+}
+
+.footer__top {
+    display: flex;
+    height: 75px;
+    background-color: rgba(28, 34, 66, 70%);
+    box-sizing: border-box;
+    padding: 25px;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__bottom {
+    height: 125px;
+    background-color: rgb(28, 34, 66);
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.footer__links {
+    text-decoration: none;
+    color: rgb(222, 222, 222);
+    font-weight: bold;
+    margin-right: 15px;
+    margin-left: 15px;
+}

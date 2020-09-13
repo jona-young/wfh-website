@@ -3,18 +3,18 @@ import "./Header.css";
 
 function Header () {
     return (
-        <div className="header">
+        <div id="home" className="header">
             <div className="header__title">
                 <div className="header__titleSquare"></div>
-                <div className="header__titleLogo">
+                <a href="#home" className="header__titleLogo">
                     WFH
-                </div>
+                </a>
             </div>
             <input type="text" className="header__search" placeholder="Search.." />
             <div className="header__setLink">
-                <span className="header__link">Link 1</span>
-                <span className="header__link">Link 2</span>
-                <span className="header__link">Link 3</span>
+                <a href="#1" className="header__link">Flexible Schedule</a>
+                <a href="#2" className="header__link">Work Abroad</a>
+                <a href="#3" className="header__link">Carbon Footprint</a>
             </div>
         </div>
     )

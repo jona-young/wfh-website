@@ -1,5 +1,32 @@
 .subcarbon {
     height: 800px;
     background-color: rgb(222, 222, 222);
+}
 
+.subcarbon__image {
+    width: 800px;
+    height: auto;
+    position: relative;
+    top: 125px;
+    left: -200px;
+}
+
+.subcarbon__content {
+    position: relative;
+    top: -350px;
+    left: 850px;
+    width: 325px;
+    text-align: left;
+}
+
+.subcarbon__title {
+    font-family: 'Assistant', sans-serif;
+    font-size: 40px;
+    padding-bottom: 20px;
+    color: rgb(28, 34, 66);
+}
+
+.subcarbon__text {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(28, 34, 66);
 }
