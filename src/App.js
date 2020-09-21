@@ -8,11 +8,9 @@ import "./Content.css";
 function App() {
   return (
     <div className="App">
-        <div className="content">
-            <Header />
-            <Content />
-            <Footer />
-        </div>
+        <Header />
+        <Content />
+        <Footer />
     </div>
   );
 }

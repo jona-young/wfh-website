@@ -6,7 +6,7 @@
 .header {
     display: flex;
     font-family: 'Assistant', sans-serif;
-    width: 1200px;
+    min-width: 1200px;
     background-color: rgb(222, 222, 222);
     padding-top: 10px;
     margin-left: auto;

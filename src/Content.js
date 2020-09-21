@@ -7,14 +7,13 @@ import SubCarbon from "./General/SubCarbon.js";
 
 function Content () {
     return (
-        <div>
+        <div className="content">
             <Main />
             <Sub />
             <SubFlex />
             <SubWork />
             <SubCarbon />
         </div>
-
     )
 }
 
